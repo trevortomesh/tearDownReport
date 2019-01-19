@@ -1,0 +1,327 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.12.3)  19 JAN 2019 00:49
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**tearDown.tex
+(./tearDown.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 7 language(s) loaded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2012/12/27 V1.8 by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 368.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEsubeqnnumrollback=\count90
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count91
+\@IEEEtranrubishbin=\box26
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (./tearDown.aux)
+\openout1 = `tearDown.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 375.
+LaTeX Font Info:    ... okay on input line 375.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 375.
+LaTeX Font Info:    ... okay on input line 375.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 375.
+LaTeX Font Info:    ... okay on input line 375.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 375.
+LaTeX Font Info:    ... okay on input line 375.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 375.
+LaTeX Font Info:    ... okay on input line 375.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 375.
+LaTeX Font Info:    ... okay on input line 375.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen119
+\scratchbox=\box27
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen120
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks17
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Calculating math sizes for size <24> on input line 399.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <24> on input line 399.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <16.79993> on input line 399.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 399.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 404.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 404.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 404.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 404.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 445.
+<img/img4.jpg, id=1, 5331.92pt x 2999.205pt>
+File: img/img4.jpg Graphic file (type jpg)
+<use img/img4.jpg>
+Package pdftex.def Info: img/img4.jpg  used on input line 473.
+(pdftex.def)             Requested size: 258.0pt x 145.11803pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 473--474
+[][] 
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./img/img4.jpg>]
+<img/img6.jpg, id=12, 5331.92pt x 2999.205pt>
+File: img/img6.jpg Graphic file (type jpg)
+<use img/img6.jpg>
+Package pdftex.def Info: img/img6.jpg  used on input line 505.
+(pdftex.def)             Requested size: 258.0pt x 145.11803pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 505--506
+[][] 
+ []
+
+<img/img8.jpg, id=13, 5331.92pt x 2999.205pt>
+File: img/img8.jpg Graphic file (type jpg)
+<use img/img8.jpg>
+Package pdftex.def Info: img/img8.jpg  used on input line 515.
+(pdftex.def)             Requested size: 258.0pt x 145.11803pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 515--517
+[][] 
+ []
+
+<img/img10.jpg, id=14, 5331.92pt x 2999.205pt>
+File: img/img10.jpg Graphic file (type jpg)
+<use img/img10.jpg>
+Package pdftex.def Info: img/img10.jpg  used on input line 527.
+(pdftex.def)             Requested size: 258.0pt x 145.11803pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 527--528
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2 <./img/img6.jpg> <./img/img8.jpg> <./img/img10.jpg>]
+<img/img1.jpg, id=19, 5331.92pt x 2999.205pt>
+File: img/img1.jpg Graphic file (type jpg)
+<use img/img1.jpg>
+Package pdftex.def Info: img/img1.jpg  used on input line 544.
+(pdftex.def)             Requested size: 258.0pt x 145.11803pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 544--545
+[][] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 545.
+<img/img2.jpg, id=20, 5331.92pt x 2999.205pt>
+File: img/img2.jpg Graphic file (type jpg)
+<use img/img2.jpg>
+Package pdftex.def Info: img/img2.jpg  used on input line 550.
+(pdftex.def)             Requested size: 258.0pt x 145.11803pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 550--551
+[][] 
+ []
+
+
+Overfull \hbox (76.24428pt too wide) in paragraph at lines 558--561
+[]\OT1/ptm/m/n/8 HOLTEK SEMI-CONDUC-TOR INC.(2009).HT46RS03/HT46RS03E/HT46RS03P
+/HT46RS03PE
+ []
+
+
+Overfull \hbox (13.66154pt too wide) in paragraph at lines 558--561
+\OT1/ptm/m/n/8 https://datasheetspdf.com/pdf/1064358/HoltekSemiconductor/HT46RS
+03PE/1
+ []
+
+[3
+
+ <./img/img1.jpg> <./img/img2.jpg>] (./tearDown.aux) ) 
+Here is how much of TeX's memory you used:
+ 2226 strings out of 494847
+ 35542 string characters out of 6179080
+ 91514 words of memory out of 5000000
+ 5526 multiletter control sequences out of 15000+600000
+ 48745 words of font info for 92 fonts, out of 8000000 for 9000
+ 62 hyphenation exceptions out of 8191
+ 41i,7n,25p,284b,230s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf
+-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8
+a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on tearDown.pdf (3 pages, 13731005 bytes).
+PDF statistics:
+ 45 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
